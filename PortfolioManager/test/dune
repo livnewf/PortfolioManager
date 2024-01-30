@@ -1,0 +1,3 @@
+(executable
+ (name maintest)
+ (libraries ounit2 PortfolioManager csv))

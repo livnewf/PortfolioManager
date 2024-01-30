@@ -1,0 +1,6 @@
+description = ""
+requires = "csv lambda-term react str"
+archive(byte) = "portfolioManager.cma"
+archive(native) = "portfolioManager.cmxa"
+plugin(byte) = "portfolioManager.cma"
+plugin(native) = "portfolioManager.cmxs"
